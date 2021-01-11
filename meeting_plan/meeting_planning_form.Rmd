@@ -1,0 +1,57 @@
+---
+title: "MARC Session Planning Form"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+| Leader Name: Jacob Green | Course: Planning form temp     |
+|--------------------------|--------------------------------|
+| Date created:            | Date implemented:              |
+| Week in course:          | Resources:                     |
+
+## Step 1: Meet with coordinators and discuss the following:
+Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
+
+1. List the most important concepts and skill introduced in this topic
+    a. Concepts
+
+    b. Skills
+
+2. Which concepts and skills can be the most challenging for researchers this week? Why?
+
+## Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
+When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
+
+1. **Session Learning Objectives**
+Describe what you would like to see your trainees be able to do by the end of your sessions? Use the list of concepts and skills you identified in Step #1. 
+
+2. **Check-in**
+Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
+
+3. **Warm-up**
+Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
+
+4. **Most of the session time**
+Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.
+
+5. **Wrap-up**
+Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 
+
+## Step 3: Reflect on this week's session
+Once you have hosted the session and completed the reflection share your completed session plan with your coordinators and review all of the activites from that week.
+
+**1. What worked in the session? What was successful?**
+
+**2. What did trainees learn? How do you know?**
+
+**3. What would you change about your session today?**
+
+**4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
+
+**5. What are you considering as good use of next week's session?**
+
