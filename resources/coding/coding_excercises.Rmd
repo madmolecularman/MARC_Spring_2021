@@ -1,0 +1,99 @@
+---
+title: "Coding Necessities Excercises"
+author: "Jacob M. Green"
+date: "7/22/2020"
+output: word_document
+---
+
+# Set-up
+
+In order to work with this assignment you will need to access a UNIX terminal in your operating system.
+- MAC users go to Utilities -> find the terminal -> open terminal
+    * if you cannot find it Command + spacebar -> type "terminal" -> select terminal icon
+- Windows users download git-bash here: https://gitforwindows.org/, progress through installation by accepting the recommended settings, open start menu, type git-bash, open application
+
+The folder that we are working in for this assignment is hosted through the MARC Summer 2020 Github site. For this instance only I would like you to blindly copy and paste the following your commands into your terminal window.
+
+# For MAC
+
+```
+cd ~
+curl -LO https://raw.githubusercontent.com/madmolecularman/MARC-Summer-2020/master/resources/coding/shell_genomics_data.zip
+unzip shell_genomics_data.zip
+cd shell_genomics_data
+```
+
+# For Git Bash
+``` 
+cd ~/Desktop
+curl -LO https://raw.githubusercontent.com/madmolecularman/MARC-Summer-2020/master/resources/coding/shell_genomics_data.zip
+unzip shell_genomics_data.zip
+cd shell_genomics_data
+```
+
+You should see something like this if the file transfer is complete
+
+```
+ % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   180  100   180    0     0    845      0 --:--:-- --:--:-- --:--:--   845
+100 47.5M  100 47.5M    0     0  2731k      0  0:00:17  0:00:17 --:--:-- 2860k
+```
+
+# FASTQ file format review
+[Pat Schloss](http://www.med.umich.edu/microbio/bio/schloss.htm) did  an experiment and wanted to look at the bacterial communities of mice at two time points using 16S sequencing. They had 10 mice in one treatment and 9 in another. They also sequenced a Mock community, so we can check the quality of the data. There are 20 samples all together done with paired-end Illumina MiSeq sequencing.
+
+The data comes back from the sequencing center as FASTQ files, and we placed them all in a folder called MiSeq.
+
+We want to be able to look at these files and manipulate them. To do so we need to be aware of the format for fastq files
+
+FASTQ format normally uses four lines per sequence
+    * *Line 1* begins with an @ character and is followed by a sequence identifier and an optional description
+    * *Line 2* is the raw sequence letters
+    * *Line 3* begins with a '+' character and is optionall followed by the same sequence identifier again
+    * *Line 4* encodes the quality values for the sequence in Line 2, and must contain the same number of symbols as letters in the sequence
+
+# How to answer the coding excercises
+
+Each coding excercise will require you to use multiple commands and arguments. For each part of an excercise add the command you used to complete the task.
+
+For example, if the task is;
+
+1) Read the first 11 lines of the nano1.txt file
+
+the answer would be;
+
+head -n 11 nano1.txt
+
+# Excercise 1
+
+1. Navigate to the MiSeq directory
+2. Rename stability.files to stability.files_IMPORTANT
+3. Create a directory in the MiSeq directory called new
+4. Then, copy the stability.files_IMPORTANT file into new direcotry and call it stability.files
+5. Remove new directory
+
+# Excercise 2
+
+1. Move around in the 'hidden' directory and try to find the file 'youfoundit.txt'. 
+2. Is there another way to *find* this file?
+3. Try finding the 'anotherfile.txt' file without changing directories
+4. How might you list all of the '.txt' files in the hidden directory?
+
+# Excercise 3
+
+1. Start in shell_genomics_data/ and use one short command to print the contents of all the files in the ~/shell_genomics_data/MiSeq directory
+2. Use one command to print the contents of these files: F3D141_S207L001_R1_001.fastq and F3D141_S207L001_R2_001.fastq
+3. Use one command to print the contents of all the files that are the first pair of sequences for each library sequenced (Hint: All of these files would contain R1 in their name)
+
+Bonus: Find the line number in your history for when you listed the command to show the contents of the stability .files and reissue that command
+
+# Excercise 4
+
+1. Navigate to the MiSeq Directory
+2. Search for the sequence 'TTATCCGGATTTATTGGGTTTAAAGGGT' in the F3D0_S188_L001_R1_001.fastq file and in the output have the sequence name and the sequence. e.g. 
+@M00967:43:000000000-A3JHG:1:2114:11799:28499 1:N:0:188  
+TACGGAGGATGCGAGCGTTATCCGGATTTATTGGGTTTAAAGGGTGCGTAGGCGGGATGCAG
+3. Search for the same sequence in all of the .fastq files
+4. Redirect the previous search into a good_data.txt file
+5. How many sequences are in this file?
