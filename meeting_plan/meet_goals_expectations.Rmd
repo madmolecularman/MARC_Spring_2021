@@ -1,0 +1,97 @@
+---
+title: "MARC Session Planning Form"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+| Leader Name: Jacob Green | Course: Welcome and goal setting |
+|--------------------------|----------------------------------|
+| Date created:1/19/2020 | Date implemented: 1/25/2020 |
+| Week in course: 1 | Resources: None |
+
+## Step 1: Meet with coordinators and discuss the following:
+Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
+
+1. List the most important concepts and skills introduced in this topic
+    a. Concepts
+      * Getting back together after Winter
+      * Clarifying expectations and goals for this Spring
+      * What is the new norm for Spring
+      * Reflecting on the winter session
+      * Transition to an online lab log
+
+    b. Skills
+      * Identifying short and long-term goals
+      * Revisiting the SMART goals format, using SMART goals
+      * Using on online lab log to create conversations with mentors
+      * Defining you expectation of the community you are working
+
+2. Which concepts and skills can be the most challenging for researchers this week? Why?
+
+Coming back together after break and figuring out the routine of the semester. Managing time with our new virtual setting and how to organize time. Definig expectation can be difficult, we may to model the way that you bring about expectation for yourself and for others. Ie. communication within the new setup of coordinators and structure of MARC.
+
+## Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
+When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
+
+1. **Session Learning Objectives**
+Describe what you would like to see your trainees be able to do by the end of your sessions? Use the list of concepts and skills you identified in Step #1. 
+
+1) Individually list their short term and long term goals and 
+2) Identify expectations for themselves, for their lab, for the MARC program
+2) Create a list of MARC program goals and expectations for github page
+
+2. **Check-in**
+Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
+
+ 1) Get everyone into the call
+ 2) How was your winter break?
+ 3) What was your experience in lab over winter break?
+
+All calendar and resources will be on the github: https://github.com/madmolecularman/MARC_Spring_2021
+
+
+3. **Warm-up**
+Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review ideas.
+
+Review SMART goals format
+
+1) Apply SMART goals to creating a list of one short term (spring semester) and one long term goal (2021)
+
+4. **Most of the session time**
+Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.
+
+Give an overview of what we are doing for the semester for meetings and for recruitment
+
+Discuss goals of trainees
+
+Discuss goals of coordinators
+
+Discuss expectations of trainees
+
+Discuss expectations of coordinators
+  * 
+5. **Wrap-up**
+Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 
+
+Describe a goal and expectation you have for the MARC program for Spring semester
+
+Use this to update Github page
+
+## Step 3: Reflect on this week's session
+Once you have hosted the session and completed the reflection share your completed session plan with your coordinators and review all of the activites from that week.
+
+**1. What worked in the session? What was successful?**
+
+**2. What did trainees learn? How do you know?**
+
+**3. What would you change about your session today?**
+
+**4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
+
+**5. What are you considering as good use of next week's session?**
+
