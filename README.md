@@ -38,7 +38,7 @@ Week | Day | Date      | Activity     | Time & Place | Attendance |
 3    | Sun | 2/14/2020 | Timeline and SRE's | 2 - 4 pm, Zoom | Required |
 5    | Sun | 2/28/2020 | Online profiles and communication | 2 - 4 pm, Zoom | Required |
 7    | Sun | 3/14/2020 | Writing workshop | 2 - 4 pm, Zoom | Required |
-9    | Sun | 3/28/2020 | Grad and Post-Seconday prep | 2 - 4 pm, Zoom | Required |
+9    | Sun | 3/28/2020 | Grad and Post-Secondary prep | 2 - 4 pm, Zoom | Required |
 11   | Sun | 4/11/2020 | Summer research experience work | 2 - 4 pm, Zoom | Required |
 13   | Sun | 4/25/2020 | Career session and IDP | 2 - 4 pm, Zoom | Required |
 15   | Tue | 5/11/2020 | MARC symposium | 2 - 4 pm, Zoom | Required

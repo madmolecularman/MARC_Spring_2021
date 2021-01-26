@@ -1,5 +1,5 @@
 ---
-title: "Planning form"
+title: "Timeline's and SRE's"
 output:
   word_document: default
   html_document: default
@@ -9,10 +9,10 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-| Leader Name: Jacob Green | Course: Planning form temp     |
+| Leader Name: Jacob Green | Course: Timeline and SRE's     |
 |--------------------------|--------------------------------|
-| Date created:            | Date implemented:|
-| Week in course:| Resources:                     |
+| Date created:            | Date implemented: 2/14/2020|
+| Week in course: 3| Resources:                     |
 
 ## Step 1: Meet with coordinators and discuss the following:
 Useful resource; **"Identifying the Difficulties with Difficult Ideas"**

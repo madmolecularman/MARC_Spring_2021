@@ -1,5 +1,5 @@
 ---
-title: "Planning form"
+title: "Writing Workshop"
 output:
   word_document: default
   html_document: default
@@ -11,8 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 | Leader Name: Jacob Green | Course: Planning form temp     |
 |--------------------------|--------------------------------|
-| Date created:            | Date implemented:|
-| Week in course:| Resources:                     |
+| Date created:            | Date implemented:3/14/2020|
+| Week in course:7| Resources:                     |
 
 ## Step 1: Meet with coordinators and discuss the following:
 Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
