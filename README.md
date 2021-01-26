@@ -32,63 +32,52 @@ Open time is a period of 30 minutes that is entirely optional. It is meant to gi
 
 ### Whole Schedule
 
-Week | Day | Date     | Activity     | Time & Place | Attendance |
----- | --- | -------- | -------------| -------------| -----------|
-1    | | | Welcome back and goal setting | | Required |
-3    | | | Timeline and SRE's
-5    | | | Online profiles and communication
-7    | | | Writing workshop
-9    | | | Grad and Post-Seconday prep
-11   | | | Summer research experience work
-13   | | | Career session and IDP
-14   | | | 
-16   | | | MARC symposium | | Required
+Week | Day | Date      | Activity     | Time & Place | Attendance |
+---- | --- | --------- | -------------| -------------| -----------|
+1    | Sun | 1/31/2020 | Welcome back and goal setting | 2 - 4 pm, Zoom | Required |
+3    | Sun | 2/14/2020 | Timeline and SRE's | 2 - 4 pm, Zoom | Required |
+5    | Sun | 2/28/2020 | Online profiles and communication | 2 - 4 pm, Zoom | Required |
+7    | Sun | 3/14/2020 | Writing workshop | 2 - 4 pm, Zoom | Required |
+9    | Sun | 3/28/2020 | Grad and Post-Seconday prep | 2 - 4 pm, Zoom | Required |
+11   | Sun | 4/11/2020 | Summer research experience work | 2 - 4 pm, Zoom | Required |
+13   | Sun | 4/25/2020 | Career session and IDP | 2 - 4 pm, Zoom | Required |
+15   | Tue | 5/11/2020 | MARC symposium | 2 - 4 pm, Zoom | Required
 
 ### MARC schedule
 
-Week | Day | Date     | Activity     | Time & Place           | 
----- | --- | -------- | -------------| -----------------------|
-1    | | | Welcome back and goal setting | |
-
+Week | Day | Date      | Activity     | Time & Place | Attendance |
+---- | --- | --------- | -------------| -------------| -----------|
+2    | Sun | 2/07/2020 | Welcome back and goal setting | 2 - 4 pm, Zoom | Required |
+4    | Sun | 2/21/2020 | Timeline and SRE's | 2 - 4 pm, Zoom | Required |
+6    | Sun | 3/07/2020 | Online profiles and communication | 2 - 4 pm, Zoom | Required |
+8    | Sun | 3/21/2020 | Writing workshop | 2 - 4 pm, Zoom | Required |
+10   | Sun | 4/04/2020 | Grad and Post-Seconday prep | 2 - 4 pm, Zoom | Required |
+12   | Sun | 4/18/2020 | Summer research experience work | 2 - 4 pm, Zoom | Required |
+14   | Sun | 4/25/2020 | Career session and IDP | 2 - 4 pm, Zoom | Required |
+16   | Tue | 5/11/2020 | MARC symposium | 2 - 4 pm, Zoom | Required
 
 ### INBRE Schedule
 
 Week | Day | Date     | Activity               | Time & Place           | 
 ---- | --- | -------- | ---------------------- | -----------------------|
-2    | WED | 9/16/20 | Tips and Strategies for Creating Resumes and Using Linkedin | 4 - 5 pm, [URI Zoom](https://uri-edu.zoom.us/j/99975553333?pwd=YmFKbzVHSFBLS0d0b3dZK2NHRFExQT09) |
+
 
 
 ### Important Dates
 
 Date     | Activity     | Time & Place           | 
 -------- | -------------| -----------------------|
-9/2/20   | SACNAS: Mapping Your Power as a Scientist Advocate | 12 pm (PDT), [register 
+
  
  
 ### Deliverables Second years
 
 Product                    | Complete by 12 pm on this date  |
 -------------------------- | ------------------------------- |
-CV |
-Identification of graduate school and funding sources |
-Statement of Purpose |
-Requests for Letters of Recommendation |
-Correspondance with Graduate Program Advisors |
-Fellowship and Scholarship Applications |
-Graduate School Applications |
-Mock Graduate Interviews |
-ePortfolio |
+
 
 ### Deliverables First years
 
 Product                    | Complete by 12 pm on this date  |
 -------------------------- | ------------------------------- |
-RCR training |
-CV |
-Statement of Purpose |
-eportfolio |
-Research Abstract |
-Research Poster or Research Paper |
 
-
-Please email deliverables to gree9242@uri.edu
