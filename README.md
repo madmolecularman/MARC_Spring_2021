@@ -1,6 +1,6 @@
-## MARC_Spring_2020
+## MARC_Spring_2021
 
-This repository is developed by Jacob Green to organize and support URI MARC students over the Fall semester of 2020. We will be scheduling meetings, planning sessions, and other resources through this directory. If you have any questions please reach out to me at here gree9242@uri.edu.
+This repository is developed by Jacob Green to organize and support URI MARC students over the Fall semester of 2021. We will be scheduling meetings, planning sessions, and other resources through this directory. If you have any questions please reach out to me at here gree9242@uri.edu.
 
 ### Spring Meetings
 
@@ -34,27 +34,27 @@ Open time is a period of 30 minutes that is entirely optional. It is meant to gi
 
 Week | Day | Date      | Activity     | Time & Place | Attendance |
 ---- | --- | --------- | -------------| -------------| -----------|
-1    | Sun | 1/31/2020 | Welcome back and goal setting | 2 - 4 pm, Zoom | Required |
-3    | Sun | 2/14/2020 | Timeline and SRE's | 2 - 4 pm, Zoom | Required |
-5    | Sun | 2/28/2020 | Online profiles and communication | 2 - 4 pm, Zoom | Required |
-7    | Sun | 3/14/2020 | Writing workshop | 2 - 4 pm, Zoom | Required |
-9    | Sun | 3/28/2020 | Grad and Post-Secondary prep | 2 - 4 pm, Zoom | Required |
-11   | Sun | 4/11/2020 | Summer research experience work | 2 - 4 pm, Zoom | Required |
-13   | Sun | 4/25/2020 | Career session and IDP | 2 - 4 pm, Zoom | Required |
-15   | Tue | 5/11/2020 | MARC symposium | 2 - 4 pm, Zoom | Required
+1    | Sun | 1/31/2021 | Welcome back and goal setting | 2 - 4 pm, Zoom | Required |
+3    | Sun | 2/14/2021 | Timeline and SRE's | 2 - 4 pm, Zoom | Required |
+5    | Sun | 2/28/2021 | Online profiles and communication | 2 - 4 pm, Zoom | Required |
+7    | Sun | 3/14/2021 | Writing workshop | 2 - 4 pm, Zoom | Required |
+9    | Sun | 3/28/2021 | Grad and Post-Secondary prep | 2 - 4 pm, Zoom | Required |
+11   | Sun | 4/11/2021 | Summer research experience work | 2 - 4 pm, Zoom | Required |
+13   | Sun | 4/25/2021 | Career session and IDP | 2 - 4 pm, Zoom | Required |
+15   | Tue | 5/11/2021 | MARC symposium | 2 - 4 pm, Zoom | Required
 
 ### MARC schedule
 
 Week | Day | Date      | Activity     | Time & Place | Attendance |
 ---- | --- | --------- | -------------| -------------| -----------|
-2    | Sun | 2/07/2020 | Welcome back and goal setting | 2 - 4 pm, Zoom | Required |
-4    | Sun | 2/21/2020 | Timeline and SRE's | 2 - 4 pm, Zoom | Required |
-6    | Sun | 3/07/2020 | Online profiles and communication | 2 - 4 pm, Zoom | Required |
-8    | Sun | 3/21/2020 | Writing workshop | 2 - 4 pm, Zoom | Required |
-10   | Sun | 4/04/2020 | Grad and Post-Seconday prep | 2 - 4 pm, Zoom | Required |
-12   | Sun | 4/18/2020 | Summer research experience work | 2 - 4 pm, Zoom | Required |
-14   | Sun | 4/25/2020 | Career session and IDP | 2 - 4 pm, Zoom | Required |
-16   | Tue | 5/11/2020 | MARC symposium | 2 - 4 pm, Zoom | Required
+2    | Sun | 2/07/2021 | Welcome back and goal setting | 2 - 4 pm, Zoom | Required |
+4    | Sun | 2/21/2021 | Timeline and SRE's | 2 - 4 pm, Zoom | Required |
+6    | Sun | 3/07/2021 | Online profiles and communication | 2 - 4 pm, Zoom | Required |
+8    | Sun | 3/21/2021 | Writing workshop | 2 - 4 pm, Zoom | Required |
+10   | Sun | 4/04/2021 | Grad and Post-Seconday prep | 2 - 4 pm, Zoom | Required |
+12   | Sun | 4/18/2021 | Summer research experience work | 2 - 4 pm, Zoom | Required |
+14   | Sun | 4/25/2021 | Career session and IDP | 2 - 4 pm, Zoom | Required |
+16   | Tue | 5/11/2021 | MARC symposium | 2 - 4 pm, Zoom | Required
 
 ### INBRE Schedule
 
