@@ -67,6 +67,8 @@ Describe how you will utilize the meeting activity (50-60 minutes) to help train
 
 Give an overview of what we are doing for the semester for meetings and for recruitment
 
+Facilitating conversation about MARC contract and changes communication norms
+
 Discuss goals of trainees
 
 Discuss goals of coordinators
@@ -74,7 +76,15 @@ Discuss goals of coordinators
 Discuss expectations of trainees
 
 Discuss expectations of coordinators
-  * 
+
+1) Contract stipulations
+* ie NIH acknowledgement
+2) Communication
+3) Lab logs
+* Electronic
+* In-person
+* New submission deadline 
+
 5. **Wrap-up**
 Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 
 
