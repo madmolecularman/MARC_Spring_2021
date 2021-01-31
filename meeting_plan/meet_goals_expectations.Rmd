@@ -33,7 +33,7 @@ Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
 
 2. Which concepts and skills can be the most challenging for researchers this week? Why?
 
-Coming back together after break and figuring out the routine of the semester. Managing time with our new virtual setting and how to organize time. Definig expectation can be difficult, we may to model the way that you bring about expectation for yourself and for others. Ie. communication within the new setup of coordinators and structure of MARC.
+Coming back together after break and figuring out the routine of the semester. Managing time with our new virtual setting and how to organize time. Defining expectations can be difficult, we may to model the way that you bring about expectation for yourself and for others. Ie. communication within the new setup of coordinators and structure of MARC.
 
 ## Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
 When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
@@ -41,7 +41,7 @@ When planning your sessions remember to stay flexible with the actual implementa
 1. **Session Learning Objectives**
 Describe what you would like to see your trainees be able to do by the end of your sessions? Use the list of concepts and skills you identified in Step #1. 
 
-1) Individually list their short term and long term goals and 
+1) Individually list their short term and long term goals
 2) Identify expectations for themselves, for their lab, for the MARC program
 2) Create a list of MARC program goals and expectations for github page
 
@@ -49,11 +49,23 @@ Describe what you would like to see your trainees be able to do by the end of yo
 Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
 
  1) Get everyone into the call
+ 
+Jewel needs to get back to conneticut as she doesn't have water
+
  2) How was your winter break?
  3) What was your experience in lab over winter break?
+ 
+Anya, spent about 50 - 60 hours in lab and did behavioral trials. Sounds like she has been really engaged
+Bryan took a 3 year old at the skating rink
+Naomi hates ice skating
+Sabrina, good break her birthday, school work was rough, starting in lab
+Tyrus doing really well in lab and starting new techniques, molecular genetics is hard, 
+Demi preparing for SURF presentation, goals set, classes are hectic, but it will be a good last semester
+Naomi, didn't have a break as she spent a lot of time in lab. Spent it writing up her applications. Submitted her first post-bacc program. personal Statements are personally draining. Don't love it, but have some relief. Potential paper in the works
+Liz, winter break was spent at home, went skiing, lab work has mainly been looking for a specific enzyme mostly computational work and they are trying to build a tree.
+Avery, spent time in lab and has been working independently with a cell survival assay. Went back and forth with some of the data and how to communicate. Been enjoying lab a bit more. 
 
 All calendar and resources will be on the github: https://github.com/madmolecularman/MARC_Spring_2021
-
 
 3. **Warm-up**
 Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review ideas.
@@ -61,6 +73,14 @@ Describe a 10-15 minute opportunity that will help trainees to organize, priorit
 Review SMART goals format
 
 1) Apply SMART goals to creating a list of one short term (spring semester) and one long term goal (2021)
+
+Avery: I would like to score in the 98th percentil in the MCAT and study for 4 hours during the week and 8 hours on weekends. I hope to secure a few job opportunities and interships after graduateion by weekly checking into indeed and his network to find a good position for his gap year. 
+Elizabeth: Procrastination issues so the short term goal is to follow the calendar that she has set up. Volutneering in SPROUT for STEM. Working on her graduate school application and who she has interest in. Finishing up her materials.
+Sabrina: Understand all the aspects of her research better. Do well in courses
+Tyrus: Do well in his classes and not get senoritis, find and secure a research position in graduate school or outside of that position
+Demi: Spring semester foll0ow the actual schedule she made that incorporates her capstone course, research, and finding a job. Assessing her needs. Be healthier and more intentional with what she is doing with her life. 
+Meagan: Utilize resources within MARC and other research corrdinators to recruit a diverse set of new MARC trainees. Update all MARC material handbook, contract, and other given trainee materials
+Naomi: Complete the URI 2 hepatocyte study, realtively small, but it takes a lot of prep and ordering. Have everthing ready by March and have statistical analysis done by May. Whatever program that she gets into she want to be prepared and be set up
 
 4. **Most of the session time**
 Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.

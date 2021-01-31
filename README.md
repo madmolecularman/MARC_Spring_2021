@@ -41,7 +41,7 @@ Week | Day | Date      | Activity     | Time & Place | Attendance |
 9    | Sun | 3/28/2021 | Grad and Post-Secondary prep | 2 - 4 pm, Zoom | Required |
 11   | Sun | 4/11/2021 | Summer research experience work | 2 - 4 pm, Zoom | Required |
 13   | Sun | 4/25/2021 | Career session and IDP | 2 - 4 pm, Zoom | Required |
-15   | Tue | 5/11/2021 | MARC symposium | 2 - 4 pm, Zoom | Required
+15   | Tue | 5/11/2021 | MARC symposium | TBD | Required
 
 ### MARC schedule
 
@@ -54,7 +54,7 @@ Week | Day | Date      | Activity     | Time & Place | Attendance |
 10   | Sun | 4/04/2021 | Grad and Post-Seconday prep | 2 - 4 pm, Zoom | Required |
 12   | Sun | 4/18/2021 | Summer research experience work | 2 - 4 pm, Zoom | Required |
 14   | Sun | 4/25/2021 | Career session and IDP | 2 - 4 pm, Zoom | Required |
-16   | Tue | 5/11/2021 | MARC symposium | 2 - 4 pm, Zoom | Required
+16   | Tue | 5/11/2021 | MARC symposium | TBD | Required
 
 ### INBRE Schedule
 
